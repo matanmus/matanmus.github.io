@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Research Projects"
+cover-img: "assets/img/Lion.png"
 ---
 
 ## The connection between action potentials and compression waves in lipid membranes
