@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Publications"
-cover-img: "assets/img/TulipField.png"
+cover-img: "assets/img/Books1.jpg"
 ---
 
 ### Publications in peer-reviewed journals

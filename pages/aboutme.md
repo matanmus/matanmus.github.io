@@ -2,7 +2,6 @@
 layout: page
 title: Matan Mussel
 subtitle: Principal Investigator
-cover-img: "assets/img/LionRun.png"
 ---
 
 <img align="left" src="/assets/img/MatanMussel.jpg" width='180'> |
