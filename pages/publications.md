@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Publications"
-cover-img: "assets/img/Books1.jpg"
+cover-img: "assets/img/Books2.jpg"
 ---
 
 ### Publications in peer-reviewed journals

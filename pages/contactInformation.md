@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contact Information"
-cover-img: "assets/img/HaifaView.png"
+cover-img: "assets/img/HaifaView3.jpg"
 ---
 
 <ins>Email:</ins> [mmussel -at- sci.haifa.ac.il](mailto:mmussel@sci.haifa.ac.il)
