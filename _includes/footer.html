@@ -23,7 +23,7 @@
           <a href="{% if site.url-canonical %}{{ site.url-canonical }}{% else %}{{ '' | absolute_url }}{% endif %}">{{ site.url-pretty }}</a>
         </span>
       {% endif %}
-
+    
       {% if site.matomo %}
         {% if site.matomo.opt-out %}
           &nbsp;&bull;&nbsp;
@@ -32,7 +32,7 @@
       {% endif%}
       </p>
       {% unless site.remove-ads %}<p class="theme-by text-muted">
-        Powered by
+        Adapted from
         <a href="https://beautifuljekyll.com">Beautiful Jekyll</a>
       </p>{% endunless %}
       </div>
