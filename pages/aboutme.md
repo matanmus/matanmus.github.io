@@ -8,7 +8,7 @@ subtitle: Principal Investigator
 
 <div style="text-align: justify">
 
-My interdisciplinary research lies at the interface of physics, chemistry, biology, materials science, and computation. I focus on connecting fundamental nonlinear properties of the cell constituents (e.g., lipid membranes and charged polymers) with biological functions such as cellular signaling and transport. In order to accomplish this task, I study a broad range of topics in Soft Matter and Biological Physics, utilizing a variety of methods spanning theory, simulation, and experiment.
+My research interest is to connect fundamental nonlinear properties of the cell constituents (e.g., lipid membranes and charged polymers) with biological functions such as cellular signaling and transport. In order to accomplish this task, I study a broad range of topics in Soft Matter and Biological Physics, utilizing a variety of methods spanning theory, simulation, and experiment.
 
 </div>
 
