@@ -6,7 +6,7 @@ cover-img: "assets/img/Books2.jpg"
 
 ### Publications in peer-reviewed journals
 
-[17] M Mussel, O Lewis, PJ Basser, and F Horkay (2022), Dynamic model of monovalent-divalent cation exchange in polyelectrolyte gels, *Physical Review Materials*, In Press.
+[17] M Mussel, O Lewis, PJ Basser, and F Horkay (2022), Dynamic model of monovalent-divalent cation exchange in polyelectrolyte gels, *Physical Review Materials*, 6:035602.
 
 [16] M Mussel, and MF Schneider (2021), Sound pulses in lipid membranes and their potential function in biology, <i>Progress in Biophysics and Molecular Biology</i>, 162:101-110.
 
