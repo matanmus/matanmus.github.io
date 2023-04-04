@@ -5,6 +5,7 @@ cover-img: "assets/img/Books2.jpg"
 ---
 
 ### Publications in peer-reviewed journals
+[18] S Das and M Mussel (2023), Characterizing oscillatory and excitability regimes in a protein freelipid membrane, *Langmuir*, in press.
 
 [17] M Mussel, O Lewis, PJ Basser, and F Horkay (2022), Dynamic model of monovalent-divalent cation exchange in polyelectrolyte gels, *Physical Review Materials*, 6:035602.
 
