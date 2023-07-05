@@ -4,7 +4,7 @@ title: "Contact Information"
 cover-img: "assets/img/HaifaView3.jpg"
 ---
 
-<ins>Email:</ins> [mmussel -at- sci.haifa.ac.il](mailto:mmussel@sci.haifa.ac.il)
+<ins>Email:</ins> [mmussel -at- univ.haifa.ac.il](mailto:mmussel@univ.haifa.ac.il)
 
 <ins>Phone:</ins> +972-4-8249696
 
