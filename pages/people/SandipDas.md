@@ -24,3 +24,6 @@ subtitle: Postdoctoral Fellow
 <br />
 
 </div>
+
+[Back to People](/pages/people)
+
