@@ -5,7 +5,7 @@ cover-img: "assets/img/Books2.jpg"
 ---
 
 ### Publications in peer-reviewed journals
-[19] M Mussel (2023), Information propagated by longitudinal waves near a van der Waals phase transition, *Physical Review E*, 108, 034209. 
+[19] M Mussel (2023), Information propagated by longitudinal pulses near a van der Waals phase transition, *Physical Review E*, 108, 034209. 
 
 [18] S Das and M Mussel (2023), Characterizing oscillatory and excitability regimes in a protein-free
 lipid membrane, *Langmuir*, 39(16): 5752–5760.
