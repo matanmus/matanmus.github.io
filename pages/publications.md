@@ -5,6 +5,9 @@ cover-img: "assets/img/Books2.jpg"
 ---
 
 ### Publications in peer-reviewed journals
+[20] A Chremos, M Mussel, JF Douglas, and F Horkay (2023), Ion Partition in Polyelectrolyte Gels and Nanogels, *Gels*, in press.
+
+
 [19] M Mussel (2023), Information propagated by longitudinal pulses near a van der Waals phase transition, *Physical Review E*, 108, 034209. 
 
 [18] S Das and M Mussel (2023), Characterizing oscillatory and excitability regimes in a protein-free
