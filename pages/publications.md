@@ -3,6 +3,7 @@ layout: page
 title: "Publications"
 cover-img: "assets/img/Books2.jpg"
 ---
+[22] S Das and M Mussel (2024), A Multidimensional Examination of Phase Separation in Single-Component Fluids, *Physics of Fluids*, in press. 
 
 [21] A Chremos, M Mussel, JF Douglas, and F Horkay (2023), Ion Partition in Polyelectrolyte Gels and Nanogels, *Gels*, 9(11): 881.
 
