@@ -3,29 +3,29 @@ layout: page
 title: "Publications"
 cover-img: "assets/img/Books2.jpg"
 ---
-[23] M Mussel and G Marcucci (2024), Towards neuromorphic computing using longitudinal pulses in a fluid near phase transition, *Physics of Fluids*, in press. 
+[23] S Das and M Mussel (2024), A Multidimensional Examination of Phase Separation in Single-Component Fluids, *Physics of Fluids*, in press. 
 
-[22] S Das and M Mussel (2024), A Multidimensional Examination of Phase Separation in Single-Component Fluids, *Physics of Fluids*, in press. 
+[22] M Mussel and G Marcucci (2024), Towards neuromorphic computing using longitudinal pulses in a fluid near phase transition, *Physics of Fluids*, 36: 046111. 
 
 [21] A Chremos, M Mussel, JF Douglas, and F Horkay (2023), Ion Partition in Polyelectrolyte Gels and Nanogels, *Gels*, 9(11): 881.
 
 
-[20] M Mussel (2023), Information propagated by longitudinal pulses near a van der Waals phase transition, *Physical Review E*, 108, 034209. 
+[20] M Mussel (2023), Information propagated by longitudinal pulses near a van der Waals phase transition, *Physical Review E*, 108: 034209. 
 
 [19] S Das and M Mussel (2023), Characterizing oscillatory and excitability regimes in a protein-free
 lipid membrane, *Langmuir*, 39(16): 5752–5760.
 
-[18] M Mussel, O Lewis, PJ Basser, and F Horkay (2022), Dynamic model of monovalent-divalent cation exchange in polyelectrolyte gels, *Physical Review Materials*, 6:035602.
+[18] M Mussel, O Lewis, PJ Basser, and F Horkay (2022), Dynamic model of monovalent-divalent cation exchange in polyelectrolyte gels, *Physical Review Materials*, 6: 035602.
 
 - - - 
 
-[17] M Mussel, and MF Schneider (2021), Sound pulses in lipid membranes and their potential function in biology, <i>Progress in Biophysics and Molecular Biology</i>, 162:101-110.
+[17] M Mussel, and MF Schneider (2021), Sound pulses in lipid membranes and their potential function in biology, <i>Progress in Biophysics and Molecular Biology</i>, 162: 101-110.
 
-[16] M Mussel, and M Slemrod (2021), Conservation laws in biology: two new applications, <i>Quarterly of Applied Mathematics</i>, 79(3):479-492.
+[16] M Mussel, and M Slemrod (2021), Conservation laws in biology: two new applications, <i>Quarterly of Applied Mathematics</i>, 79(3): 479-492.
 
-[15] M Mussel, PJ Basser, and F Horkay (2021), Ion-induced volume transition in gels and its role in biology, <i>Gels</i>, 7(1):20.
+[15] M Mussel, PJ Basser, and F Horkay (2021), Ion-induced volume transition in gels and its role in biology, <i>Gels</i>, 7(1): 20.
 
-[14] CG Lopez, F Horkay, M Mussel, R Jones, and W Richtering (2020), Screening lengths and osmotic compressibility of flexible polyelectrolytes in excess salt solutions, <i>Soft Matter</i>, 16(31):  7289-7298.
+[14] CG Lopez, F Horkay, M Mussel, R Jones, and W Richtering (2020), Screening lengths and osmotic compressibility of flexible polyelectrolytes in excess salt solutions, <i>Soft Matter</i>, 16(31): 7289-7298.
 
 [13] M Mussel and F Horkay (2019), Experimental evidence for universal behavior of ion-induced volume phase transition in sodium polyacrylate gels, *Journal of Physical Chemistry Letters* 10(24): 7831-7835.
 
