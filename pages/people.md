@@ -10,6 +10,8 @@ title: People
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <img align="left" src="/assets/img/DiklaKolan.jpg" width='180'> | <b>[Dikla Kolan](/pages/people/DiklaKolan), Lab Manager<b/>                      &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; <br> [<img src="/assets/img/envelope.jpg" width="25" height="25">](mailto:dkolan@univ.haifa.ac.il)|
 
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img align="left" src="/assets/img/DmitriiNasonov.jpeg" width='180'> | <b> Dmitrii Nasonov, Research Assistant<b/>&nbsp;|
+
+&nbsp;
+# Alumni
+<b> Dmitrii Nasonov, Research Assistant (2024) <b/>&nbsp;
 
