@@ -13,5 +13,5 @@ title: People
 
 &nbsp;
 # Alumni
-<b> Dmitrii Nasonov, Research Assistant (2024) <b/>&nbsp;
+<b> Dmitrii Weitzer, Research Assistant (2024) <b/>&nbsp;
 
