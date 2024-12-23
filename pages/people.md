@@ -13,6 +13,8 @@ title: People
 | <img align="left" src="/assets/img/GoshaVtorygin.jpg" width='180'> | <b>Gosha Vtorygin, Research Assistant <b/> 
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <img align="left" src="/assets/img/SafaaBasis.png" width='180'> | <b>Safaa Basis, Undergraduate Student <b/> 
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img align="left" src="/assets/img/LunaNawatha.jpeg" width='180'> | <b>Luna Nawatha, Undergraduate Student <b/> 
 
 &nbsp;
 # Alumni
