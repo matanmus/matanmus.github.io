@@ -3,6 +3,8 @@ layout: page
 title: "Publications"
 cover-img: "assets/img/Books2.jpg"
 ---
+[24] D Kolan, S Kozawa, D Weitzer, G Wnek, and M Mussel (2025), Propagation of a Chemo-Mechanical Phase Boundary in Polyacrylate Gels, *Polymer*, in press.
+
 [23] S Das and M Mussel (2024), A Multidimensional Examination of Phase Separation in Single-Component Fluids, *Physics of Fluids*, 36: 044112. 
 
 [22] M Mussel and G Marcucci (2024), Towards neuromorphic computing using longitudinal pulses in a fluid near phase transition, *Physics of Fluids*, 36: 046111. 
