@@ -10,7 +10,7 @@ title: People
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <img align="left" src="/assets/img/DiklaKolan.jpg" width='180'> | <b>[Dr. Dikla Kolan](/pages/people/DiklaKolan), Lab Manager<b/>                      &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; <br> [<img src="/assets/img/envelope.jpg" width="25" height="25">](mailto:dkolan@univ.haifa.ac.il)|
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img align="left" src="/assets/img/GoshaVtorygin.jpg" width='180'> | <b>Gosha Vtorygin, Research Assistant <b/> 
+| <img align="left" src="/assets/img/RaziZeidan.jpeg" width='180'> | <b> Razi Zeidan, Research Assistant <b/> 
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <img align="left" src="/assets/img/SafaaBasis.png" width='180'> | <b>Safaa Basis, Undergraduate Student <b/> 
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -18,5 +18,7 @@ title: People
 
 &nbsp;
 # Alumni
+<b> Gosha Vtorygin, Research Assistant (2024-2025) <b/>&nbsp;
+ 
 <b> Dmitrii Weitzer, Research Assistant (2024) <b/>&nbsp;
 
