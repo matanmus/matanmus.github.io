@@ -19,7 +19,16 @@ subtitle: Postdoctoral Fellow
 
 <br />
 
-2014-2021: PhD, Department of Physics, Indian Institute of Technology Guwahati. 
+2014-2021: PhD, Department of Physics, Indian  Institute  of Technology  Kharagpur <br />
+
+<br />
+
+2012-2014: MSc, Department of Physics, Indian Institute of Technology Guwahati <br />
+
+<br />
+
+2009-2012: BSc, Department of Physics, the University of Burdwan <br />
+
 
 <br />
 
