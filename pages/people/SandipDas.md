@@ -27,7 +27,7 @@ subtitle: Postdoctoral Fellow
 
 <br />
 
-2009-2012: BSc, Department of Physics, the University of Burdwan <br />
+2009-2012: BSc in Physics, the University of Burdwan <br />
 
 
 <br />
