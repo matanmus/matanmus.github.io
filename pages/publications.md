@@ -3,6 +3,8 @@ layout: page
 title: "Publications"
 cover-img: "assets/img/Books2.jpg"
 ---
+[26] S Das, MF Schneider, MF Hamilton, M Mussel (2025), Head-On Collision of Longitudinal Density Pulses Near Phase Transition: Insights from Numerical Simulations, *Physics of Fluids*, in press. 
+
 [25] V A Baulin, A Giacometti, D Fedosov, S Ebbens, N R Varela-Rosales, N Feliu, M Chowdhury, M Hu, R Füchslin, M Dijkstra, M Mussel, R v Roij, D Xie, V Tzanov, M Zu, S Hidalgo-Caballero, Y Yuan, L Cocconi, C M Ghim, C Cottin-Bizonne, M C Miguel, M J Esplandiu, J Simmchen, W J Parak, M Werner, G Gompper, M M Hanczyc (2025), Intelligent Soft Matter: Towards Embodied Intelligence, *Soft Matter*, 21: 4129. 
 
 [24] D Kolan, S Kozawa, D Weitzer, G Wnek, and M Mussel (2025), Propagation of a Chemo-Mechanical Phase Boundary in Polyacrylate Gels, *Polymer*, 319: 128039.
