@@ -10,6 +10,8 @@ title: People
 | <img align="left" src="/assets/img/RaziZeidan.jpeg" width="180"> | <b>Dr. Razi Zeidan, Postdoctoral Fellow</b> |
 | <img align="left" src="/assets/img/AviHolden.jpeg" width="180"> | <b>Avi Holden, Undergraduate Student</b> |
 | <img align="left" src="/assets/img/IvanTikhotskii.jpg" width="180"> | <b>Ivan Tikhotskii, Undergraduate Student</b>  <br/> Mutual supervision with [Sarit Avrani](https://www.avranilab.haifa.ac.il/){:target="_blank"} |
+| <img align="left" src="/assets/img/AdiSalomon.jpg" width="180"> | <b>Adi Salomon, MSc Student</b>  <br/> Mutual supervision with [Uri Nevo (Tel Aviv University)](https://www.nevolab.sites.tau.ac.il/){:target="_blank"} |
+
 
 # Alumni
 
