@@ -3,6 +3,8 @@ layout: page
 title: "Publications"
 cover-img: "assets/img/Books2.jpg"
 ---
+[27] **Invited book chapter:** J Steinkühler and M Mussel (2026), The Membrane as a Processor: on the Computational Potential of Lipid Membranes, *Advances in Biomembranes and Lipid Self-Assembly 43*, accepted for publication.
+
 [26] S Das, MF Schneider, MF Hamilton, M Mussel (2025), Head-On Collision of Longitudinal Density Pulses Near Phase Transition: Insights from Numerical Simulations, *Physics of Fluids*,  37(8): 086109. 
 
 [25] V A Baulin, A Giacometti, D Fedosov, S Ebbens, N R Varela-Rosales, N Feliu, M Chowdhury, M Hu, R Füchslin, M Dijkstra, M Mussel, R v Roij, D Xie, V Tzanov, M Zu, S Hidalgo-Caballero, Y Yuan, L Cocconi, C M Ghim, C Cottin-Bizonne, M C Miguel, M J Esplandiu, J Simmchen, W J Parak, M Werner, G Gompper, M M Hanczyc (2025), Intelligent Soft Matter: Towards Embodied Intelligence, *Soft Matter*, 21: 4129. 
