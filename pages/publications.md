@@ -3,7 +3,7 @@ layout: page
 title: "Publications"
 cover-img: "assets/img/Books2.jpg"
 ---
-[27] **Invited book chapter:** J Steinkühler and M Mussel (2026), The Membrane as a Processor: on the Computational Potential of Lipid Membranes, *Advances in Biomembranes and Lipid Self-Assembly 43*, accepted for publication.
+[27] **Invited book chapter:** J Steinkühler and M Mussel (2026), The Membrane as a Processor: on the Computational Potential of Lipid Membranes, *Advances in Biomembranes and Lipid Self-Assembly 43*, in-press.
 
 [26] S Das, MF Schneider, MF Hamilton, M Mussel (2025), Head-On Collision of Longitudinal Density Pulses Near Phase Transition: Insights from Numerical Simulations, *Physics of Fluids*,  37(8): 086109. 
 

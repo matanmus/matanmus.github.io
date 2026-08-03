@@ -61,15 +61,6 @@ title: People
     </td>
 
     <td>
-      <img class="profile" src="/assets/img/SandipDas.jpg"><br>
-      <b><a href="/pages/people/SandipDas">Dr. Sandip Das</a></b><br>
-      Postdoctoral Fellow<br>
-      <a href="mailto:sdas01@campus.haifa.ac.il">
-        <img src="/assets/img/envelope.jpg" width="25" height="25">
-      </a>
-    </td>
-
-    <td>
       <img class="profile" src="/assets/img/DiklaKolan.jpg"><br>
       <b><a href="/pages/people/DiklaKolan">Dr. Dikla Kolan</a></b><br>
       Lab Manager<br>
@@ -77,21 +68,15 @@ title: People
         <img src="/assets/img/envelope.jpg" width="25" height="25">
       </a>
     </td>
-  </tr>
 
-  <tr>
-    <td>
+	<td>
       <img class="profile razi" src="/assets/img/RaziZeidan.jpeg"><br>
       <b>Dr. Razi Zeidan</b><br>
       Postdoctoral Fellow
     </td>
+  </tr>
 
-    <td>
-      <img class="profile avi" src="/assets/img/AviHolden.jpeg"><br>
-      <b>Avi Holden</b><br>
-      Undergraduate Student
-    </td>
-
+  <tr>
     <td>
       <img class="profile" src="/assets/img/IvanTikhotskii.jpg"><br>
       <b>Ivan Tikhotskii</b><br>
@@ -101,9 +86,7 @@ title: People
         Sarit Avrani
       </a>
     </td>
-  </tr>
 
-  <tr>
     <td>
       <img class="profile adi" src="/assets/img/AdiSalomon.jpg"><br>
       <b>Adi Salomon</b><br>
@@ -120,7 +103,8 @@ title: People
 </table>
 
 # Alumni
-
+- **Sandip Das**, Postdoctoral Fellow (2022-2026)
+- **Avi Holden**, Undergraduate Student (2025–2026)  
 - **Safaa Basis**, Undergraduate Student (2024–2025)  
 - **Luna Nawatha**, Undergraduate Student (2024–2025)  
 - **Gosha Vtorygin**, Research Assistant (2024–2025)  
