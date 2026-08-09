@@ -3,7 +3,7 @@ layout: page
 title: "Publications"
 cover-img: "assets/img/Books2.jpg"
 ---
-[28] N Nováková, J Macháček, M Mussel, JV Nygaard, and J Čejková (2026), **Soft Matter Self-Assembly: From Droplets to Myelin Figures**, <u>Surfaces and Interfaces</u>, Accepted for publication.
+[28] N Nováková, J Macháček, M Mussel, JV Nygaard, and J Čejková (2026), **Soft Matter Self-Assembly: From Droplets to Myelin Figures**, <u>Surfaces and Interfaces</u>, 98: 110303.
 
 [27] <u>Invited book chapter:</u> J Steinkühler and M Mussel (2026), **The Membrane as a Processor: on the Computational Potential of Lipid Membranes**, <u>Advances in Biomembranes and Lipid Self-Assembly 43</u>, in-press.
 
