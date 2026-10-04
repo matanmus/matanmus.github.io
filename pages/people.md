@@ -78,16 +78,6 @@ title: People
 
   <tr>
     <td>
-      <img class="profile" src="/assets/img/IvanTikhotskii.jpg"><br>
-      <b>Ivan Tikhotskii</b><br>
-      Undergraduate Student<br>
-      Mutual supervision with
-      <a href="https://www.avranilab.haifa.ac.il/" target="_blank">
-        Sarit Avrani
-      </a>
-    </td>
-
-    <td>
       <img class="profile adi" src="/assets/img/AdiSalomon.jpg"><br>
       <b>Adi Salomon</b><br>
       MSc Student<br>
@@ -97,8 +87,21 @@ title: People
       </a>
     </td>
 
-    <td></td>
-    <td></td>
+    <td>
+		<img class="profile" src="/assets/img/AdanShabrawey.jpeg"><br>
+      <b>Adan Shabrawey</b><br>
+      MSc Student<br>
+	</td>
+    
+	<td>
+      <img class="profile" src="/assets/img/IvanTikhotskii.jpg"><br>
+      <b>Ivan Tikhotskii</b><br>
+      Undergraduate Student<br>
+      Mutual supervision with
+      <a href="https://www.avranilab.haifa.ac.il/" target="_blank">
+        Sarit Avrani
+      </a>
+    </td>
   </tr>
 </table>
 
