@@ -92,7 +92,15 @@ title: People
       <b>Adan Shabrawey</b><br>
       MSc Student<br>
 	</td>
+
+	<td>
+		<img class="profile" src="/assets/img/AnwarGanem.png"><br>
+      <b>AAnwar Ganem</b><br>
+      MSc Student<br>
+	</td>
     
+  </tr>
+  <tr>
 	<td>
       <img class="profile" src="/assets/img/IvanTikhotskii.jpg"><br>
       <b>Ivan Tikhotskii</b><br>
