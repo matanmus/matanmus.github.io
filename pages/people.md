@@ -95,7 +95,7 @@ title: People
 
 	<td>
 		<img class="profile" src="/assets/img/AnwarGanem.png"><br>
-      <b>AAnwar Ganem</b><br>
+      <b>Anwar Ganem</b><br>
       MSc Student<br>
 	</td>
     
