@@ -115,7 +115,6 @@ title: People
       <img class="profile" src="/assets/img/LiorLouisOcampo.jpg"><br>
       <b> Lior Louis Ocampo</b><br>
       Undergraduate Student<br>
-      </a>
     </td>
   </tr>
 </table>
