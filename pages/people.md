@@ -102,16 +102,6 @@ title: People
   </tr>
   <tr>
 	<td>
-      <img class="profile" src="/assets/img/IvanTikhotskii.jpg"><br>
-      <b>Ivan Tikhotskii</b><br>
-      Undergraduate Student<br>
-      Mutual supervision with
-      <a href="https://www.avranilab.haifa.ac.il/" target="_blank">
-        Sarit Avrani
-      </a>
-    </td>
-	
-	<td>
       <img class="profile" src="/assets/img/LiorLouisOcampo.jpg"><br>
       <b> Lior Louis Ocampo</b><br>
       Undergraduate Student<br>
@@ -120,6 +110,7 @@ title: People
 </table>
 
 # Alumni
+- **Ivan Tikhotskii**, Undergraduate Student (2025–2026)  
 - **Sandip Das**, Postdoctoral Fellow (2022-2026)
 - **Avi Holden**, Undergraduate Student (2025–2026)  
 - **Safaa Basis**, Undergraduate Student (2024–2025)  
